@@ -10,7 +10,7 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudflypeng&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cloudflypeng&theme=windows-dark&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 
 - 🌱 I’m currently learning ...

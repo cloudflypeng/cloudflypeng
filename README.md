@@ -9,6 +9,9 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudflypeng&show_icons=true&theme=tokyonight)
+
+
 - 🌱 I’m currently learning ...
 
 <!--

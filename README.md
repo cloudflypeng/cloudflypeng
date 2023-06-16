@@ -1,5 +1,5 @@
 <center> 
-  <img src="https://github.com/cloudflypeng/cloudflypeng/blob/main/publish/logo.png?raw=true" width="100%" height="20%" />
+  <img src="https://github.com/cloudflypeng/cloudflypeng/blob/main/publish/meacnc.png?raw=true" width="100%" height="20%" />  
 </center>
 
 

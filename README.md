@@ -12,6 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cloudflypeng&theme=windows-dark&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
+- [react-spring-chinese-doc](https://github.com/cloudflypeng/react-spring-chinese-docs)：react-spring的中文翻译
 
 - 🌱 I’m currently learning ...
 

@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=2000&color=F7E144&center=true&vCenter=true&width=800&height=80&lines=Today+is+nice%2C+glad+i'm+alive;%E4%BB%8A%E5%A4%A9%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A+%E6%88%91%E5%8F%88%E6%B4%BB%E8%BF%87%E4%BA%86%E4%B8%80%E5%A4%A9+)](https://git.io/typing-svg)
 
+know more you can see https://blog.130011.xyz/
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)

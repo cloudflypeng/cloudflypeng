@@ -19,10 +19,16 @@ https://meanc.cc
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=ffffff)
 ##### library prefer
-![framer-motion](https://img.shields.io/badge/-framer--motion-00D8FF?style=flat-square&logo=framer&logoColor=ffffff)
-![gsap](https://img.shields.io/badge/-gsap-FFD100?style=flat-square&logo=gsap&logoColor=ffffff)
-![antd](https://img.shields.io/badge/-antd-00C58E?style=flat-square&logo=ant-design&logoColor=ffffff)
-![antv](https://img.shields.io/badge/-antv-000000?style=flat-square&logo=ant-design&logoColor=ffffff)
+![framer-motion](https://img.shields.io/badge/-framer--motion-4A154B?style=flat-square&logo=framer&logoColor=ffffff)
+![gsap](https://img.shields.io/badge/-gsap-88CE02?style=flat-square&logo=gsap&logoColor=ffffff)
+![antd](https://img.shields.io/badge/-antd-0170FE?style=flat-square&logo=ant-design&logoColor=ffffff)
+![antv](https://img.shields.io/badge/-antv-1677FF?style=flat-square&logo=ant-design&logoColor=ffffff)
+![zustand](https://img.shields.io/badge/-zustand-764ABC?style=flat-square&logo=zustand&logoColor=ffffff)
+![jotai](https://img.shields.io/badge/-jotai-E6007A?style=flat-square&logo=jotai&logoColor=ffffff)
+![pinia](https://img.shields.io/badge/-pinia-42B883?style=flat-square&logo=pinia&logoColor=ffffff)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+![unocss](https://img.shields.io/badge/-unocss-333333?style=flat-square&logo=unocss&logoColor=ffffff)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=I+don't+know+what+I+want;I+know+what+I+don't+want)](https://git.io/typing-svg)
 

@@ -4,7 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=cloudflypeng&theme=windows-dark&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 ### Blog
-https://meanc.cc
+http://xlog.meanc.cc/
 
 ##### language
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)

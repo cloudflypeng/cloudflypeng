@@ -35,4 +35,5 @@ https://www.meanc.cc
 
 ### work on
 - [eno-music](https://github.com/cloudflypeng/eno-music): 对标youtube music的音乐软件,目前base on chrome extension,后续考虑迁移到electron, 和 web 上
-- [bewlybewly](https://github.com/BewlyBewly/BewlyBewly): bilibili 的高级网页扩展
+- [bewlybewly](https://github.com/BewlyBewly/BewlyBewly): bilibili 的高级网页扩展(已经归档)
+- [eno-m-desktop](https://github.com/cloudflypeng/eno-m-desktop): b 站封装的客户端音乐软件
